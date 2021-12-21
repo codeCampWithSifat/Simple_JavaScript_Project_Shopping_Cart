@@ -1,1 +1,5 @@
-# Simple_JavaScript_Project_Shopping_Cart
+# HTML 
+# CSS 
+# SIMPLE JAVASCRIPT PROJECT 
+# PROJECT DESCRIPTION 
+* PLAY WITH DOM
